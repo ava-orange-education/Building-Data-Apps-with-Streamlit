@@ -1,0 +1,8 @@
+# Common
+pandas<3.0
+setuptools
+
+# To generate profile report
+numpy<=2.1
+ydata-profiling<5.0
+streamlit-pandas-profiling<1.0

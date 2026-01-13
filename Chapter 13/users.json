@@ -1,0 +1,14 @@
+{
+  "johndoe": {
+    "password": "password123",
+    "role": "admin"
+  },
+  "janedoe": {
+    "password": "securepass456",
+    "role": "editor"
+  },
+  "viewer01": {
+    "password": "viewonly789",
+    "role": "viewer"
+  }
+}
